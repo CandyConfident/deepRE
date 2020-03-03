@@ -46,5 +46,6 @@ SemEval-2010 Task #8
 
 - Relation Classification via Convolutional Deep Neural Network (COLING 2014), D Zeng et al. 
 - Relation Extraction: Perspective from Convolutional Neural Networks (NAACL 2015), TH Nguyen et al. 
+- Zhou. (2016). Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification. ACL
 - https://github.com/lawlietAi/pytorch-acnn-model
-
+- https://github.com/FrankWork/conv_relation

@@ -12,7 +12,7 @@ MACRO-averaged result (excluding Other):
 P =  83.66%		R =  77.15%	F1 =  80.72%
 
 ### a-cnn
-#### 此结果运行代码 https://github.com/lawlietAi/pytorch-acnn-model所得
+#### 此结果运行代码 https://github.com/lawlietAi/pytorch-acnn-model  所得
 Micro-averaged result (excluding Other):
 P = 2004/2262 =  85.59%     R = 2004/2449 =  79.83%     F1 =  82.78%
 
